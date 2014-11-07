@@ -1,5 +1,4 @@
-# Tutorial meteor.js
-====================
+# Tutorial meteor
 
 ```
 cd simple-todos/
